@@ -1,0 +1,5 @@
+PonteH	KEYWORD1
+setVelocidade	KEYWORD2
+setDirecao	KEYWORD2
+acionar	KEYWORD2
+desacionar	KEYWORD2
