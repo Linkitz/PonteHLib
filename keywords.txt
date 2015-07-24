@@ -1,5 +1,7 @@
 PonteH	KEYWORD1
 setVelocidade	KEYWORD2
 setDirecao	KEYWORD2
+getVelocidade	KEYWORD2
+getDirecao	KEYWORD2
 acionar	KEYWORD2
 desacionar	KEYWORD2

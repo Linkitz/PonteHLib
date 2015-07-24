@@ -19,8 +19,16 @@ void PonteH::setVelocidade(int velocidade){
 	else _velocidade=velocidade;		
 }
 
+int PonteH::getVelocidade(){		
+return _velocidade;
+}
+
 void PonteH::setDirecao(boolean direcao){
 	_direcao=direcao;
+}
+
+boolean PonteH::getDirecao(){
+	return _direcao;
 }
 
 void PonteH::acionar(){		

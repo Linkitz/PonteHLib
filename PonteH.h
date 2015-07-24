@@ -10,8 +10,11 @@ class PonteH{
 	PonteH(int enable,int input1,int input2);
 	void setVelocidade(int velocidade);
 	void setDirecao(boolean direcao);
+	int getVelocidade();
+	boolean getDirecao();
 	void acionar();
 	void desacionar();
+	
 	
 	private:
 	int _enable;
